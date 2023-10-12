@@ -30,3 +30,7 @@ whereIsWaldo([
 ]) ➞ [5, 1]
 
 ```
+
+**To Run Your Code**
+
+Open up a terminal in the CWD(Current Working Directory) and run `node index.js` or go ahead and install nodemon to run your code automatically continiously.
